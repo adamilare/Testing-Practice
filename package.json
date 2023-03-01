@@ -1,0 +1,23 @@
+{
+  "name": "Testing-Practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamilare/Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamilare/Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/adamilare/Testing-Practice#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
